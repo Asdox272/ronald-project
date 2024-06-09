@@ -33,7 +33,6 @@
         </div>
 
         <div class="flex items-center mt-16 justify-center gap-10">
-            <img src="https://www.greenscene.co.id/wp-content/uploads/2018/09/film.jpg" class="rounded-3xl" alt="" width="600px" height="500px">
             <div>
                 <ul>
                     <h1 class="text-2xl font-semibold dm-sans text-neutral-200">Ulasan Film</h1>
@@ -48,6 +47,7 @@
                     <p class="max-w-xl archivo text-sm text-neutral-400 mt-2 leading-7">Dapatkan update terkini tentang film-film baru, perkembangan di industri perfilman, serta berita eksklusif dari balik layar.</p>
                 </ul>
             </div>
+            <img src="https://www.greenscene.co.id/wp-content/uploads/2018/09/film.jpg" class="rounded-3xl" alt="" width="600px" height="500px">
         </div>
     </div>
 

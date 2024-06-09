@@ -15,25 +15,6 @@
         <p class="mb-8 text-gray-300 max-w-2xl archivo leading-7 mx-auto">We’ll create high-quality linkable content and build at least 40 high-authority links to each asset, paving the way for you to grow your rankings, improve brand.</p>
         </div>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-6 max-w-7xl items-center mx-auto">
-            <div class="bg-sky-600 text-white rounded-3xl h-[540px] p-6">
-                <h2 class="text-4xl font-bold mb-4 dm-sans">Contact Information</h2>
-                <div class="archivo">
-                <p><strong>Admin 1:</strong> Ronald Alexander</p>
-                <p><strong>Phone:</strong> +6289674398585</p>
-                <p><strong>Email:</strong> ronaldalexander272@gmail.com</p>
-                <p><strong>Location:</strong>Yogyakarta</p>
-                </br>
-                <p><strong>Admin 2:</strong> Muhammad Galih</p>
-                <p><strong>Phone:</strong> +62</p>
-                <p><strong>Email:</strong> support@gmail.com</p>
-                <p><strong>Location:</strong>Yogyakarta</p>
-                </br>
-                <p><strong>Admin 3:</strong> Denal</p>
-                <p><strong>Phone:</strong> +62</p>
-                <p><strong>Email:</strong> support@gamil.com</p>
-                <p><strong>Location:</strong>Yogyakarta</p>
-                </div>
-            </div>
             <div class="md:col-span-2 max-w-3xl">
                 <form action="" method="post" class="bg-black border border-neutral-800 shadow-lg rounded-3xl p-8">
                     <div class="mb-4">
@@ -56,6 +37,25 @@
                         <input type="reset" class="bg-gray-200 hover:bg-gray-300 text-gray-700 font-bold py-2 px-4 archivo rounded-3xl" value="Reset">
                     </div>
                 </form>
+            </div>
+            <div class="bg-sky-600 text-white rounded-3xl h-[540px] p-6">
+                <h2 class="text-4xl font-bold mb-4 dm-sans">Contact Information</h2>
+                <div class="archivo">
+                <p><strong>Admin 1:</strong> Ronald Alexander</p>
+                <p><strong>Phone:</strong> +6289674398585</p>
+                <p><strong>Email:</strong> ronaldalexander272@gmail.com</p>
+                <p><strong>Location:</strong>Yogyakarta</p>
+                </br>
+                <p><strong>Admin 2:</strong> Muhammad Galih</p>
+                <p><strong>Phone:</strong> +62</p>
+                <p><strong>Email:</strong> support@gmail.com</p>
+                <p><strong>Location:</strong>Yogyakarta</p>
+                </br>
+                <p><strong>Admin 3:</strong> Denal</p>
+                <p><strong>Phone:</strong> +62</p>
+                <p><strong>Email:</strong> support@gamil.com</p>
+                <p><strong>Location:</strong>Yogyakarta</p>
+                </div>
             </div>
         </div>
     </div>
